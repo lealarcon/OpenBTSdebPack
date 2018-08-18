@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 13 Sep 2014 11:42:42 -0700
+Source: range-configs
+Binary: range-configs
+Architecture: source all
+Version: 5.1-master
+Distribution: unstable
+Urgency: low
+Maintainer: Range Networks, Inc. <info@rangenetworks.com>
+Changed-By: Range Packager <buildmeister@rangenetworks.com>
+Description:
+ range-configs - Range Networks - Misc Default Configurations
+Changes:
+ range-configs (5.1-master) unstable; urgency=low
+ .
+     * Test
+Checksums-Sha1:
+ d0a7a0d520de689af56cbe9c92ec7a2710695219 619 range-configs_5.1-master.dsc
+ c122d47748c2b2edae2d28d470d05cb3b2ffde14 58125 range-configs_5.1-master.tar.gz
+ 4363b03bc5ee20b2e23851f02b6219a9eca14ec5 2492 range-configs_5.1-master_all.deb
+Checksums-Sha256:
+ f9b83e7b8d735473158671206df44ca254a1909f7a7465f77cb973aaace2bde4 619 range-configs_5.1-master.dsc
+ 09f96b7a1f6ed7f31a1071f67c71aac97dfcd0c64df930052729704c3f5b627c 58125 range-configs_5.1-master.tar.gz
+ 8cd4ebc05ee93225cc5ffe6dd63a1c54a2ec4f231965620ce2ed981546688278 2492 range-configs_5.1-master_all.deb
+Files:
+ 07410cc04f3daed3f8d74eaf2dc8eca3 619 comm optional range-configs_5.1-master.dsc
+ 22a92178ff2724390f3226ec711167f2 58125 comm optional range-configs_5.1-master.tar.gz
+ 4908d45fa8a8a1e499fecf199d867207 2492 comm optional range-configs_5.1-master_all.deb
