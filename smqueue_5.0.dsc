@@ -10,8 +10,8 @@ Build-Depends: build-essential, debhelper (>= 7), libtool, pkg-config, autoconf,
 Package-List:
  smqueue deb comm optional arch=any
 Checksums-Sha1:
- 0d464a45d842f6e1f0c42c93b8e7095add643513 4773757 smqueue_5.0.tar.gz
+ 4011655baa141b114905de37cb3d079da673243c 4798384 smqueue_5.0.tar.gz
 Checksums-Sha256:
- 56ae60cf14c7611a29459bdd3aa6d88d3c99144a06d199406ca64b594a0a3840 4773757 smqueue_5.0.tar.gz
+ ae1eb6c0d9eae0aff4fcfc823d94bfb922710753c08fe8ad76e23cad2ba2880b 4798384 smqueue_5.0.tar.gz
 Files:
- cfbf6bb1bc36c83478e2cecea4bb9ef2 4773757 smqueue_5.0.tar.gz
+ 65dd6bb3654975fd080db0d273772eec 4798384 smqueue_5.0.tar.gz

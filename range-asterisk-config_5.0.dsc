@@ -10,8 +10,8 @@ Build-Depends: build-essential, debhelper (>= 7)
 Package-List:
  range-asterisk-config deb comm optional arch=all
 Checksums-Sha1:
- 9b930708aa25ddbf6552febd915cc474f1d470e6 560691 range-asterisk-config_5.0.tar.gz
+ 4b43c24c334c9354512c38fe5d4728f8994af0cd 560115 range-asterisk-config_5.0.tar.gz
 Checksums-Sha256:
- 986b8ae9882b87937a7dda490169e7df7c3293c5d67936b1f79b0107f50f0c2d 560691 range-asterisk-config_5.0.tar.gz
+ 6fb4a32fd6086d00c8711399c8668a26480aba1e956c7936d79518790477f0fa 560115 range-asterisk-config_5.0.tar.gz
 Files:
- 84c8747641d30308f1ef634c81b4a686 560691 range-asterisk-config_5.0.tar.gz
+ 5f4d91258c70d687cc7bdb90f14d98b8 560115 range-asterisk-config_5.0.tar.gz

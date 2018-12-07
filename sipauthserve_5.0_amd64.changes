@@ -15,14 +15,14 @@ Changes:
  .
      * Test
 Checksums-Sha1:
- dbc14edf786cd037fb7a1b99f742036274dc7554 684 sipauthserve_5.0.dsc
- bae2247857a387247502c3600e4f6cecfdf34be6 1360399 sipauthserve_5.0.tar.gz
- f24b21ec308a2be9c65d6693548a4bb5b34804da 1129436 sipauthserve_5.0_amd64.deb
+ 5bf4a3c32142fe215b6d6a0b89a082e8186511d3 684 sipauthserve_5.0.dsc
+ e52c5627ce527e4f16966c41de41a8aba031afa2 1386356 sipauthserve_5.0.tar.gz
+ e9768662932007e255ac65d69ec4f905af20ffa5 1129176 sipauthserve_5.0_amd64.deb
 Checksums-Sha256:
- 10a7757d59e6944ee336e448b0ca15ca102852e0b3b53dd7db6ba3c881375d0d 684 sipauthserve_5.0.dsc
- 3ae105de20425edea568871890410f34cc187a73b155f64dca3c59fa49c07c78 1360399 sipauthserve_5.0.tar.gz
- be68b36fb1dc3777e2aa5d76076607166b820fad5abe642a25718defa978e4d2 1129436 sipauthserve_5.0_amd64.deb
+ 451aa718ea5b6cf637fc44971de280b87aa875870955a949184400b5622d8611 684 sipauthserve_5.0.dsc
+ 8d03374faf42d9aef79551e4c176a529bef7e1f52172827229682d37f304255c 1386356 sipauthserve_5.0.tar.gz
+ 048950f76bb9f681a407554a4cc6473ec6bd3e595ee0f822c21c2ab3afd0d117 1129176 sipauthserve_5.0_amd64.deb
 Files:
- f16980d92b14e1bd45463f9527dae503 684 comm optional sipauthserve_5.0.dsc
- 4eb25d145e21535c05e7439a7153d8a2 1360399 comm optional sipauthserve_5.0.tar.gz
- e2cbe70234c2747a8a73236b55a18155 1129436 comm optional sipauthserve_5.0_amd64.deb
+ 6371e874b20656fa4ab2091a6c12f0ec 684 comm optional sipauthserve_5.0.dsc
+ 0a86f3b4df47f8372bd7db0a9e11f045 1386356 comm optional sipauthserve_5.0.tar.gz
+ 1fd9eccb344067e2ea395a5cbbdb904c 1129176 comm optional sipauthserve_5.0_amd64.deb

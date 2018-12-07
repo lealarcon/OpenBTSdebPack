@@ -10,8 +10,8 @@ Build-Depends: build-essential, debhelper (>= 7), pkg-config, autoconf, libtool,
 Package-List:
  openbts deb comm optional arch=any
 Checksums-Sha1:
- 0b85133e044ecdc28741b081444e92a7d5f41946 8887174 openbts_5.0.tar.gz
+ 0b8ef94f56c415f22aabd2a8d1f0ef4be6d913d4 9010092 openbts_5.0.tar.gz
 Checksums-Sha256:
- 1475664a3739b375c7c01ca5dce51beef83c475c9099a579eceec91be23c4bc5 8887174 openbts_5.0.tar.gz
+ 10740b69c326c959e0ca3cea67ae054c6ef21ce0487405c96be71d16f07fea44 9010092 openbts_5.0.tar.gz
 Files:
- 7f2a82a9b641f5a7e40a7cf5b4d2ed29 8887174 openbts_5.0.tar.gz
+ d7d67f5e0778bdd102b8a67f67be29e3 9010092 openbts_5.0.tar.gz

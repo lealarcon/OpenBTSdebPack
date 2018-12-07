@@ -15,14 +15,14 @@ Changes:
  .
      * Test
 Checksums-Sha1:
- 325da01f4aa56783fa4c18f1d8593fef42b8d2ae 654 smqueue_5.0.dsc
- 0d464a45d842f6e1f0c42c93b8e7095add643513 4773757 smqueue_5.0.tar.gz
- d1d68818a29b4352f2f60c549add69bdb7e39d99 1707496 smqueue_5.0_amd64.deb
+ fd089dc980b1b660b81fb068e4879fff3a553c29 654 smqueue_5.0.dsc
+ 4011655baa141b114905de37cb3d079da673243c 4798384 smqueue_5.0.tar.gz
+ 8025b50426b9898257e97ac9842ff2e9f19daabd 1707478 smqueue_5.0_amd64.deb
 Checksums-Sha256:
- e0079fa5cd96a951f0de544d38bf1c6247db1690989ecd23ff218a1810f66d10 654 smqueue_5.0.dsc
- 56ae60cf14c7611a29459bdd3aa6d88d3c99144a06d199406ca64b594a0a3840 4773757 smqueue_5.0.tar.gz
- cae5770c1240b82e0f61371e6108fdf4aa5cb0417d25f5bc309f52aac1c2d42e 1707496 smqueue_5.0_amd64.deb
+ 1296a5f260b81085714022140fb3652de78475da502f375155ed28e5023e4e60 654 smqueue_5.0.dsc
+ ae1eb6c0d9eae0aff4fcfc823d94bfb922710753c08fe8ad76e23cad2ba2880b 4798384 smqueue_5.0.tar.gz
+ 9acdc4c425026eeb9f1a0bf44d5c40396cbdf0a53777c143e832d979cc29223b 1707478 smqueue_5.0_amd64.deb
 Files:
- 0409714417fba206a17592baaeb9155c 654 comm optional smqueue_5.0.dsc
- cfbf6bb1bc36c83478e2cecea4bb9ef2 4773757 comm optional smqueue_5.0.tar.gz
- 924d5ec37386c3edf6824402d8f410fc 1707496 comm optional smqueue_5.0_amd64.deb
+ 87f3a29eb45a5a5b4bf2e5c0327c1fe9 654 comm optional smqueue_5.0.dsc
+ 65dd6bb3654975fd080db0d273772eec 4798384 comm optional smqueue_5.0.tar.gz
+ dc3f78be22aaa4bda569bbad7b12819f 1707478 comm optional smqueue_5.0_amd64.deb

@@ -10,8 +10,8 @@ Build-Depends: build-essential, debhelper (>= 7), pkg-config
 Package-List:
  liba53 deb comm optional arch=any
 Checksums-Sha1:
- 30c23fd33945e98af70d2c1f0c34fef01992e005 97094 liba53_0.1.tar.gz
+ 74ef0f98271abde8bcc0763891d2d4ccbf9cc235 96916 liba53_0.1.tar.gz
 Checksums-Sha256:
- e64942baea8599d7eb92c9b44741b4bfde1a18492f2e89e31362706b7b4e2f30 97094 liba53_0.1.tar.gz
+ 72933066ac9b290ae768c87071977a8acb3063b7ab8242c7874aed4add857b3d 96916 liba53_0.1.tar.gz
 Files:
- c8e8d1730d7903a261ab789239dd0a1e 97094 liba53_0.1.tar.gz
+ 6b2603a82e0f8bd0525ef27b9c29363d 96916 liba53_0.1.tar.gz

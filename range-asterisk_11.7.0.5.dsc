@@ -10,8 +10,8 @@ Build-Depends: build-essential, debhelper (>= 7), pkg-config, autoconf, libsqlit
 Package-List:
  range-asterisk deb comm optional arch=any
 Checksums-Sha1:
- 00870ea8295eac19a0c898d5007d34d86878c8e2 17392265 range-asterisk_11.7.0.5.tar.gz
+ 3cf9d1148e53151719874b63468938b39daeccee 17383105 range-asterisk_11.7.0.5.tar.gz
 Checksums-Sha256:
- cc89d972b821172d7fc675fec9aecf3ed98360738e417aeb05d181586d6d5c7c 17392265 range-asterisk_11.7.0.5.tar.gz
+ 492113a22801bb5d41cc6731cb8d0ea14fedcb16070603d8afbd556f384affab 17383105 range-asterisk_11.7.0.5.tar.gz
 Files:
- 3d74b3a4797c5788c825a5fdf60fc02e 17392265 range-asterisk_11.7.0.5.tar.gz
+ d7a4d689e56a31956462444388ad9890 17383105 range-asterisk_11.7.0.5.tar.gz
